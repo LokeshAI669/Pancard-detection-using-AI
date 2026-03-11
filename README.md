@@ -11,26 +11,26 @@ This project demonstrates how Computer Vision and Deep Learning models can be in
 
 Demo Output
 
-Example output when the PAN card is detected:
-Bounding box around the PAN card
-Confidence score displayed
-FPS counter for performance
+- Example output when the PAN card is detected:
+- Bounding box around the PAN card
+- Confidence score displayed
+- FPS counter for performance
 
 
-Technologies Used
+**Technologies Used**
 
-Python
-YOLO (Ultralytics)
-OpenCV
-Deep Learning
-Computer Vision
+- Python
+- YOLO (Ultralytics)
+- OpenCV
+- Deep Learning
+- Computer Vision
 
 
 This project uses the YOLO Object Detection Model.
-Model details:
-Model: YOLO (Ultralytics)
-Training framework: PyTorch
-Custom trained dataset for PAN Card detection
+- Model details:
+- Model: YOLO (Ultralytics)
+- Training framework: PyTorch
+- Custom trained dataset for PAN Card detection
 
 
 Project Workflow
