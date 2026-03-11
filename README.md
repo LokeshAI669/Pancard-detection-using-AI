@@ -34,18 +34,7 @@ This project uses the YOLO Object Detection Model.
 
 
 Project Workflow
-Camera Input
-     ↓
-YOLO Model Detection
-     ↓
-Bounding Box Around PAN Card
-     ↓
-Confidence Score Display
-     ↓
-Crop Detected PAN Card
-     ↓
-Save Image to Output Folder
-
+Camera Input  -> YOLO Model Detection -> Bounding Box Around PAN Card -> Confidence Score Display -> Crop Detected PAN Card -> Save Image to Output Folder
 
 
 Requirements
